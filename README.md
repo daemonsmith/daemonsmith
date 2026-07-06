@@ -1,4 +1,4 @@
-# Hi, I'm Temidara Adekoya
+# Hi, I'm Dara
 
 **Infrastructure and security engineer.** I run production infrastructure, harden it, and automate it, and I build the full-stack apps that sit on top. Working with clients worldwide.
 
